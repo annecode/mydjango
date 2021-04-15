@@ -1,0 +1,4 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Python template
+# 自定义忽略文件
+/django3_venv/*
